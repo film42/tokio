@@ -1,0 +1,14 @@
+var ALIASES = {};
+ALIASES["build_tests"] = {};
+ALIASES["test_cat"] = {};
+ALIASES["tokio"] = {};
+ALIASES["tokio_codec"] = {};
+ALIASES["tokio_executor"] = {};
+ALIASES["tokio_fs"] = {};
+ALIASES["tokio_io"] = {};
+ALIASES["tokio_macros"] = {};
+ALIASES["tokio_net"] = {};
+ALIASES["tokio_sync"] = {};
+ALIASES["tokio_test"] = {};
+ALIASES["tokio_timer"] = {};
+ALIASES["tokio_tls"] = {};
